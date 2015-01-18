@@ -23,3 +23,6 @@ ro.telephony.get_imsi_from_sim=true
 
 # RIL Subscription Types
 ril.subscription.types=NV,RUIM
+
+# Force using eri.xml for carrier text
+ro.ril.force_eri_from_xml=true
